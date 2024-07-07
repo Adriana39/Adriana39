@@ -1,6 +1,7 @@
 ### Olá 👋
 
-Bem vindo(a) ao meu repositorio⚡ , Eu sou a Adriana e atualmente estou estudando programação com foco em front-end!
+Bem vindo(a) ao meu repositorio⚡!
+Eu sou a Adriana e atualmente estou estudando TECNOLOGIA DA INFORMAÇÃO com foco em FULSTACK!
 🤔Estou explorando as seguintes tecnologias 
 
 <br>Liguagem de Marcação de texto <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
