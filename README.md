@@ -3,6 +3,7 @@
 Bem vindo(a) ao meu repositorio⚡!
 <br>
 Eu sou a Adriana e atualmente estou estudando TECNOLOGIA DA INFORMAÇÃO!
+<br>
 🤔Estou explorando as seguintes tecnologias FrontEnd:
 
 <br> Linguagem de Marcação de texto <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
