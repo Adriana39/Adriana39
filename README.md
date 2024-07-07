@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Bem vindo(a) ao meu repositorio⚡!
+Bem vindo(a) ao meu repositorio remoto⚡!
 <br>
 Eu sou a Adriana e atualmente estou estudando TECNOLOGIA DA INFORMAÇÃO!
 <br>
