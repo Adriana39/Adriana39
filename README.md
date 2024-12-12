@@ -1,4 +1,5 @@
 ### Olá 👋
+<p>Sou autodidata em tecnologia e estou buscando aprimorar meus conhecimentos em linguagens de programação com o objetivo de realizar uma transição de carreira. Acredito que o aprendizado contínuo é essencial para o crescimento profissional e para me adaptar às novas demandas do mercado.</p>
 
 Bem vindo(a) ao meu repositorio remoto⚡!
 <br>
