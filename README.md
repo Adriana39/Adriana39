@@ -1,21 +1,19 @@
-### Olá 👋
-<p>Sou autodidata em tecnologia e estou buscando aprimorar meus conhecimentos em linguagens de programação com o objetivo de realizar uma transição de carreira. Acredito que o aprendizado contínuo é essencial para o crescimento profissional e para me adaptar às novas demandas do mercado.</p>
+# 👋 Olá! Eu sou a Adriana
 
-Bem vindo(a) ao meu repositorio remoto⚡!
-<br>
-Eu sou a Adriana e atualmente estou estudando TECNOLOGIA DA INFORMAÇÃO!
-<br>
-🤔Estou explorando as seguintes tecnologias FrontEnd:
+Sou uma profissional em transição de carreira, saindo da área de vendas para me tornar desenvolvedora web. Apaixonada por tecnologia, design e pelo universo do front-end, estou construindo meu caminho no desenvolvimento de interfaces bonitas, acessíveis e funcionais.
 
-<br> Linguagem de Marcação de texto <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
+- 💻 **Atualmente aprendendo:** HTML, CSS, JavaScript  
+- 🎯 **Objetivo:** Trabalhar como desenvolvedora front-end  
+- 📚 **Interesses:** tecnologia, livros, música, séries, cinema  
+- 🚀 **Projetos:** Em breve irei compartilhar meus primeiros projetos aqui no GitHub!
 
-<br>Linguagem de Marcação de Estilo <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
+---
 
-<br>Linguagem de Programação <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="java-logo"/>
+## 🌐 Vamos nos conectar?
 
-<br>Contato: <a href="https://www.linkedin.com/in/adriana-fs/"/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="l-logo"/>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriana-fs/)  
+📧 **E-mail:** fernandes.afs1984@gmail.com
 
-[![adriana](https://github-readme-stats.vercel.app/api?username=Adriana39)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![adriana](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana39)](https://github.com/anuraghazra/github-readme-stats)
--->
+✨ Obrigada por visitar meu perfil — estou aberta a conexões, colaborações e novas oportunidades!
