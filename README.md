@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a Adriana
 
-Sou uma profissional em transição de carreira, saindo da área de vendas para me tornar desenvolvedora web. Apaixonada por tecnologia, design e pelo universo do front-end, estou construindo meu caminho no desenvolvimento de interfaces bonitas, acessíveis e funcionais.
+Sou uma profissional em transição de carreira, saindo da área de represebtação comercial para me tornar desenvolvedora web. Apaixonada por tecnologia, design e pelo universo do front-end, estou construindo meu caminho no desenvolvimento de interfaces bonitas, acessíveis e funcionais.
 
 ---
 
