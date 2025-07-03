@@ -1,11 +1,22 @@
 # 👋 Olá! Eu sou a Adriana
 
-Sou uma profissional em transição de carreira, saindo da área de representação comercial para me tornar desenvolvedora web. Apaixonada por tecnologia, design e pelo universo do front-end, estou construindo meu caminho no desenvolvimento de interfaces bonitas, acessíveis e funcionais.
+Sou uma profissional em transição de carreira, saindo da área de vendas para me tornar desenvolvedora web. Apaixonada por tecnologia, design e pelo universo do front-end, estou construindo meu caminho no desenvolvimento de interfaces bonitas, acessíveis e funcionais.
 
-- 💻 **Atualmente aprendendo:** HTML, CSS, JavaScript  
-- 🎯 **Objetivo:** Trabalhar como desenvolvedora front-end  
-- 📚 **Interesses:** tecnologia, livros, música, séries, cinema  
-- 🚀 **Projetos:** Em breve irei compartilhar meus primeiros projetos aqui no GitHub!
+---
+
+## 🛠️ Tecnologias que estou aprendendo
+
+![HTML](https://img.shields.io/badge/HTML5-Iniciante-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-Iniciante-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Iniciante-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📊 Minhas Estatísticas no GitHub
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana39&layout=compact&theme=tokyonight)  
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Adriana39&show_icons=true&theme=tokyonight&count_private=true)
 
 ---
 
@@ -17,3 +28,8 @@ Sou uma profissional em transição de carreira, saindo da área de representaç
 ---
 
 ✨ Obrigada por visitar meu perfil — estou aberta a conexões, colaborações e novas oportunidades!
+
+
+
+
+
