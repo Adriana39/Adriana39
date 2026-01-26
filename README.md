@@ -1,6 +1,9 @@
 # 👋 Olá! Eu sou a Adriana
 
-Sou uma profissional em transição de carreira, saindo da área de represebtação comercial para me tornar desenvolvedora web. Apaixonada por tecnologia, design e pelo universo do front-end, estou construindo meu caminho no desenvolvimento de interfaces bonitas, acessíveis e funcionais.
+Desenvolvedora Front-End em transição de carreira, com sólida base em HTML5, CSS3, JavaScript e React. Trago 7+ anos de experiência em atendimento ao cliente e vendas técnicas, o que me dá uma visão diferenciada sobre usabilidade e experiência do usuário. Busco oportunidade para aplicar minhas habilidades técnicas em projetos reais e crescer como desenvolvedora.
+Desenvolvimento de landing pages e sites institucionais para pequenos negócios, utilizando HTML5, CSS3, JavaScript e Materialize CSS. Entrega  projetos com foco em responsividade e performance
+
+ Vamos nos conectar:
 
 ---
 
