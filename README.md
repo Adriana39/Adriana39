@@ -1,18 +1,24 @@
-# 👋 Olá! Eu sou a Adriana
+# ☕ Clone Starbucks
 
-Desenvolvedora Front-End em transição de carreira, com sólida base em HTML5, CSS3, JavaScript e React. Trago 7+ anos de experiência em atendimento ao cliente e vendas técnicas, o que me dá uma visão diferenciada sobre usabilidade e experiência do usuário. Busco oportunidade para aplicar minhas habilidades técnicas em projetos reais e crescer como desenvolvedora.
-Desenvolvimento de landing pages e sites institucionais para pequenos negócios, utilizando HTML5, CSS3, JavaScript e Materialize CSS. Entrega  projetos com foco em responsividade e performance
+Réplica da interface do site Starbucks desenvolvida para 
+praticar HTML5, CSS3 e JavaScript.
 
- Vamos nos conectar:
+## 🚀 Demo
+[Ver projeto online](link-do-vercel-aqui)
 
----
+## 🛠️ Tecnologias
 
-## 🛠️ Tecnologias que estou aprendendo
+- HTML5
 
-![HTML](https://img.shields.io/badge/HTML5-Iniciante-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-Iniciante-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Iniciante-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- CSS3
 
+- JavaScript
+
+## 📸 Preview
+[Adicionar screenshot do projeto]
+
+## 👩‍💻 Autora
+Adriana Fernandes - [LinkedIn](linkedin.com/in/adriana-fs)
 ---
 
 ## 📊 Minhas Estatísticas no GitHub
