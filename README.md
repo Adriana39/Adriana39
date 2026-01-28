@@ -8,13 +8,12 @@ Com mais de 7 anos de experiência em atendimento ao cliente, ouvidoria e vendas
 
 ## 🚀 Skills Técnicas
 
-- **Front-End:** HTML5 | CSS3 | JavaScript | Materialize CSS  
-
-- **Back-End:** Node.js (em formação)  
-
-- **Ferramentas:** Git | GitHub | VS Code  
-
-- **Conceitos:** Responsividade | Acessibilidade | Versionamento  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ---
 
@@ -42,6 +41,14 @@ Tecnologias: HTML5, CSS3, JavaScript.
 
 ---
 
+## 📊 Minhas estatísticas no GitHub
+
+![Adriana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adriana39&show_icons=true&theme=dark&count_private=true)
+
+![Top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana39&layout=compact&theme=dark)
+
+---
+
 ## 📫 Vamos nos conectar?
 
 - 📧 fernandes.afs1984@gmail.com  
@@ -53,8 +60,5 @@ Tecnologias: HTML5, CSS3, JavaScript.
 ---
 
 ⭐ Se gostou do meu perfil, deixe uma estrela nos meus projetos!  
-
-
-
 
 
