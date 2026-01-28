@@ -1,42 +1,58 @@
-# ☕ Clone Starbucks
+# Olá, eu sou a Adriana Fernandes 👋
 
-Réplica da interface do site Starbucks desenvolvida para 
-praticar HTML5, CSS3 e JavaScript.
+Sou uma Desenvolvedora Front-End em transição de carreira, com foco em JavaScript e Node.js. Tenho uma base sólida em HTML5, CSS3 e JavaScript, e estou aprimorando minhas habilidades em desenvolvimento back-end com Node.js.
 
-## 🚀 Demo
-[Ver projeto online](link-do-vercel-aqui)
-
-## 🛠️ Tecnologias
-
-- HTML5
-
-- CSS3
-
-- JavaScript
-
-## 📸 Preview
-[Adicionar screenshot do projeto]
-
-## 👩‍💻 Autora
-Adriana Fernandes - [LinkedIn](linkedin.com/in/adriana-fs)
----
-
-## 📊 Minhas Estatísticas no GitHub
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana39&layout=compact&theme=tokyonight)  
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Adriana39&show_icons=true&theme=tokyonight&count_private=true)
+Com mais de 7 anos de experiência em atendimento ao cliente, ouvidoria e vendas técnicas, trago uma visão diferenciada sobre a experiência do usuário, comunicação efetiva e resolução de problemas.
 
 ---
 
-## 🌐 Vamos nos conectar?
+## 🚀 Skills Técnicas
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriana-fs/)  
-📧 **E-mail:** fernandes.afs1984@gmail.com
+- **Front-End:** HTML5 | CSS3 | JavaScript | Materialize CSS  
+
+- **Back-End:** Node.js (em formação)  
+
+- **Ferramentas:** Git | GitHub | VS Code  
+
+- **Conceitos:** Responsividade | Acessibilidade | Versionamento  
 
 ---
 
-✨ Obrigada por visitar meu perfil — estou aberta a conexões, colaborações e novas oportunidades!
+## 💻 Projetos em Destaque
+
+### [☕ Clone Starbucks](https://github.com/Adriana39/Starbucks)
+Réplica da interface do site Starbucks, focada em responsividade e fidelidade visual.  
+Tecnologias: HTML5, CSS3, JavaScript.
+
+*(Em breve com link para demo hospedada)*
+
+---
+
+## 📚 Formação e Certificações
+
+- Tecnólogo em Processos Fotográficos  
+
+- JavaScript + Node.js - DevClub Full Stack (em andamento)  
+
+- Comunicação e Oratória - Escola Conquer  
+
+- Projetista Móveis Planejados - Promob  
+
+- Gestão em Ouvidoria - ENAP  
+
+---
+
+## 📫 Vamos nos conectar?
+
+- 📧 fernandes.afs1984@gmail.com  
+
+- 🔗 [LinkedIn](https://linkedin.com/in/adriana-fs)  
+
+- 💻 [GitHub](https://github.com/Adriana39)  
+
+---
+
+⭐ Se gostou do meu perfil, não esqueça de deixar uma estrela nos meus projetos!  
 
 
 
